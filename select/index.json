@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Allegro",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-02T01:39:06.813864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Allegro Opus 3.3am",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/01_Allegro_Opus_3.3am_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Allegro, Opus 3.3 a.m.",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/02_Allegro,_Opus_3.3_a.m._陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Allegro Ma Non Troppo",
+      "artist": "Drugstore",
+      "has_synced": false,
+      "path": "select/03_Allegro_Ma_Non_Troppo_Drugstore.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Allegro Cantabile",
+      "artist": "SUEMITSU & THE SUEMITH",
+      "has_synced": false,
+      "path": "select/pl_01_Allegro_Cantabile_SUEMITSU_&_THE_SUEMITH.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Allegro Cantabile",
+      "artist": "SUEMITSU & THE SUEMITH",
+      "has_synced": false,
+      "path": "select/pl_02_Allegro_Cantabile_SUEMITSU_&_THE_SUEMITH.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Allegromoderato",
+      "artist": "SUEMITSU & THE SUEMITH",
+      "has_synced": false,
+      "path": "select/pl_03_Allegromoderato_SUEMITSU_&_THE_SUEMITH.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Allegro",
+      "artist": "SUEMITSU & THE SUEMITH",
+      "has_synced": false,
+      "path": "select/pl_04_Allegro_SUEMITSU_&_THE_SUEMITH.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Allegro Opus 3.3am",
+      "artist": "SUEMITSU & THE SUEMITH",
+      "has_synced": false,
+      "path": "select/pl_05_Allegro_Opus_3.3am_SUEMITSU_&_THE_SUEMITH.txt"
+    }
+  ]
+}
